@@ -3,3 +3,4 @@
 - 2020-03-22T09:20:42+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-03-22T17:27:08+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-03-22T14:33:44+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
+- 2020-03-22T18:43:47+00:00Z — feat: dataset loader with train/val split and augmentations
