@@ -1,2 +1,3 @@
 - 2020-03-22T17:25:26+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-03-22T16:06:17+00:00Z — feat: optional attention maps for interpretable pooling
+- 2020-03-22T09:20:42+00:00Z — feat: add guided backprop visualization for comparison
