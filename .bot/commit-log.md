@@ -4,3 +4,4 @@
 - 2020-03-22T17:27:08+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-03-22T14:33:44+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-03-22T18:43:47+00:00Z — feat: dataset loader with train/val split and augmentations
+- 2020-03-24T20:13:48+00:00Z — chore(ci): lint and pytest in GitHub Actions
