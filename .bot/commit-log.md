@@ -7,3 +7,4 @@
 - 2020-03-24T20:13:48+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-03-24T13:21:05+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-03-24T14:18:09+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
+- 2020-03-24T09:02:45+00:00Z — docs: document explainability pipeline and CLI usage
