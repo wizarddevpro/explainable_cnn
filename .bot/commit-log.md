@@ -6,3 +6,4 @@
 - 2020-03-22T18:43:47+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-03-24T20:13:48+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-03-24T13:21:05+00:00Z — refactor: extract training loop into trainer module with metrics logging
+- 2020-03-24T14:18:09+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
