@@ -4,3 +4,4 @@
 - 2020-03-24T11:57:36+00:00Z — refactor: separate model, data, and explain modules
 - 2020-03-28T10:18:26+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-03-28T09:07:23+00:00Z — feat: export ONNX with dynamic batch for deployment checks
+- 2020-03-28T13:07:08+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
