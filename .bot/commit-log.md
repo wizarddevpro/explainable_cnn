@@ -2,3 +2,4 @@
 - 2020-03-24T17:52:35+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-03-24T18:28:02+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-03-24T11:57:36+00:00Z — refactor: separate model, data, and explain modules
+- 2020-03-28T10:18:26+00:00Z — refactor: extract training loop into trainer module with metrics logging
