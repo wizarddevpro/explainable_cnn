@@ -9,3 +9,4 @@
 - 2020-03-24T14:18:09+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-03-24T09:02:45+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-03-29T16:37:44+00:00Z — chore(ci): lint and pytest in GitHub Actions
+- 2020-03-29T11:49:49+00:00Z — refactor: separate model, data, and explain modules
