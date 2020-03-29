@@ -10,3 +10,4 @@
 - 2020-03-24T09:02:45+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-03-29T16:37:44+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-03-29T11:49:49+00:00Z — refactor: separate model, data, and explain modules
+- 2020-03-29T16:54:24+00:00Z — chore: pin torch/torchvision and add requirements lock
