@@ -14,3 +14,4 @@
 - 2020-03-29T17:50:43+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-03-29T20:05:32+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-03-30T13:43:51+00:00Z — feat: add CNN backbone with configurable depth and channel widths
+- 2020-03-30T19:16:43+00:00Z — chore: pin torch/torchvision and add requirements lock
