@@ -18,3 +18,4 @@
 - 2020-03-30T20:23:53+00:00Z — fix: clamp attribution maps before colormap for stable plots
 - 2020-03-30T17:06:36+00:00Z — test: add smoke tests for forward pass and attribution shapes
 - 2020-03-30T15:10:23+00:00Z — feat: optional attention maps for interpretable pooling
+- 2020-03-30T18:06:59+00:00Z — docs: add README section on reproducing paper-style figures
