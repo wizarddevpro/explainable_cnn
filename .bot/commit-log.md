@@ -16,3 +16,4 @@
 - 2020-03-30T13:43:51+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-03-30T19:16:43+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-03-30T20:23:53+00:00Z — fix: clamp attribution maps before colormap for stable plots
+- 2020-03-30T17:06:36+00:00Z — test: add smoke tests for forward pass and attribution shapes
