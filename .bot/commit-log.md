@@ -6,3 +6,4 @@
 - 2020-03-28T09:07:23+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-03-28T13:07:08+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-03-31T15:31:23+00:00Z — feat: dataset loader with train/val split and augmentations
+- 2020-03-31T15:58:36+00:00Z — feat: add guided backprop visualization for comparison
