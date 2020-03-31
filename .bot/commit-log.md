@@ -8,3 +8,4 @@
 - 2020-03-31T15:31:23+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-03-31T15:58:36+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-03-31T15:39:47+00:00Z — docs: add README section on reproducing paper-style figures
+- 2020-03-31T17:20:21+00:00Z — feat: optional attention maps for interpretable pooling
