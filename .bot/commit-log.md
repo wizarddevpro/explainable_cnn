@@ -12,3 +12,4 @@
 - 2020-03-31T20:44:37+00:00Z — refactor: separate model, data, and explain modules
 - 2020-04-02T09:24:50+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-04-02T15:04:09+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
+- 2020-04-02T09:32:53+00:00Z — feat: optional attention maps for interpretable pooling
