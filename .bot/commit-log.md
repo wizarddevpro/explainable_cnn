@@ -14,3 +14,4 @@
 - 2020-04-02T15:04:09+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-04-02T09:32:53+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-04-02T09:10:00+00:00Z — fix: normalize inputs consistently between train and explain paths
+- 2020-04-02T18:51:04+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
