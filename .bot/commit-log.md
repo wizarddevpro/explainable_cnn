@@ -13,3 +13,4 @@
 - 2020-04-02T09:24:50+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-04-02T15:04:09+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-04-02T09:32:53+00:00Z — feat: optional attention maps for interpretable pooling
+- 2020-04-02T09:10:00+00:00Z — fix: normalize inputs consistently between train and explain paths
