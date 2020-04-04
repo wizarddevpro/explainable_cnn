@@ -18,3 +18,4 @@
 - 2020-04-04T17:06:33+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-04-04T18:12:28+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-04-04T18:27:32+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
+- 2020-04-04T10:06:10+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
