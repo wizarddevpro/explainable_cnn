@@ -22,3 +22,4 @@
 - 2020-04-04T18:09:21+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-04-04T15:24:12+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-04-04T17:35:43+00:00Z — feat: export ONNX with dynamic batch for deployment checks
+- 2020-04-04T16:27:14+00:00Z — docs: document explainability pipeline and CLI usage
