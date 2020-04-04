@@ -20,3 +20,4 @@
 - 2020-04-04T18:27:32+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-04-04T10:06:10+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-04-04T20:02:30+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
+- 2020-04-04T09:40:55+00:00Z — chore(ci): lint and pytest in GitHub Actions
