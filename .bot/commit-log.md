@@ -16,3 +16,4 @@
 - 2020-04-02T09:10:00+00:00Z — fix: normalize inputs consistently between train and explain paths
 - 2020-04-02T18:51:04+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-04-04T17:06:33+00:00Z — feat: add guided backprop visualization for comparison
+- 2020-04-04T18:12:28+00:00Z — feat: add guided backprop visualization for comparison
