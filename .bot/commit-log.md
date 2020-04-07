@@ -23,3 +23,4 @@
 - 2020-04-04T09:40:55+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-04-07T14:17:44+00:00Z — refactor: separate model, data, and explain modules
 - 2020-04-07T15:03:59+00:00Z — feat: overlay CAM on input images and save explanation figures
+- 2020-04-07T16:40:59+00:00Z — chore: pin torch/torchvision and add requirements lock
