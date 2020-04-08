@@ -26,3 +26,4 @@
 - 2020-04-07T16:40:59+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-04-08T13:15:48+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-04-08T20:42:27+00:00Z — feat: add CNN backbone with configurable depth and channel widths
+- 2020-04-08T09:56:59+00:00Z — chore: pin torch/torchvision and add requirements lock
