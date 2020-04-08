@@ -28,3 +28,4 @@
 - 2020-04-08T20:42:27+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-04-08T09:56:59+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-04-08T17:04:08+00:00Z — feat: export ONNX with dynamic batch for deployment checks
+- 2020-04-08T14:05:21+00:00Z — feat: add CNN backbone with configurable depth and channel widths
