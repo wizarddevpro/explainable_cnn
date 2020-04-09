@@ -25,3 +25,4 @@
 - 2020-04-04T16:27:14+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-04-09T20:04:49+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-04-09T13:54:43+00:00Z — fix: clamp attribution maps before colormap for stable plots
+- 2020-04-09T15:11:38+00:00Z — test: add smoke tests for forward pass and attribution shapes
