@@ -24,3 +24,4 @@
 - 2020-04-04T17:35:43+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-04-04T16:27:14+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-04-09T20:04:49+00:00Z — chore(ci): lint and pytest in GitHub Actions
+- 2020-04-09T13:54:43+00:00Z — fix: clamp attribution maps before colormap for stable plots
