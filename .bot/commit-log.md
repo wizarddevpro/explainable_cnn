@@ -29,3 +29,4 @@
 - 2020-04-09T09:44:00+00:00Z — docs: add README section on reproducing paper-style figures
 - 2020-04-10T10:45:29+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-04-10T20:54:52+00:00Z — fix: normalize inputs consistently between train and explain paths
+- 2020-04-10T11:52:50+00:00Z — feat: overlay CAM on input images and save explanation figures
