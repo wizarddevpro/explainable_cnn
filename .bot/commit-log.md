@@ -27,3 +27,4 @@
 - 2020-04-09T13:54:43+00:00Z — fix: clamp attribution maps before colormap for stable plots
 - 2020-04-09T15:11:38+00:00Z — test: add smoke tests for forward pass and attribution shapes
 - 2020-04-09T09:44:00+00:00Z — docs: add README section on reproducing paper-style figures
+- 2020-04-10T10:45:29+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
