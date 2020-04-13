@@ -32,3 +32,4 @@
 - 2020-04-08T11:03:50+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-04-13T11:22:20+00:00Z — refactor: separate model, data, and explain modules
 - 2020-04-13T19:04:02+00:00Z — docs: add README section on reproducing paper-style figures
+- 2020-04-13T11:51:40+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
