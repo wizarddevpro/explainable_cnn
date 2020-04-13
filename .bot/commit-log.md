@@ -33,3 +33,4 @@
 - 2020-04-13T11:22:20+00:00Z — refactor: separate model, data, and explain modules
 - 2020-04-13T19:04:02+00:00Z — docs: add README section on reproducing paper-style figures
 - 2020-04-13T11:51:40+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
+- 2020-04-13T20:49:56+00:00Z — fix: normalize inputs consistently between train and explain paths
