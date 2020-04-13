@@ -30,3 +30,4 @@
 - 2020-04-08T17:04:08+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-04-08T14:05:21+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-04-08T11:03:50+00:00Z — feat: add CNN backbone with configurable depth and channel widths
+- 2020-04-13T11:22:20+00:00Z — refactor: separate model, data, and explain modules
