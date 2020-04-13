@@ -31,3 +31,4 @@
 - 2020-04-10T20:54:52+00:00Z — fix: normalize inputs consistently between train and explain paths
 - 2020-04-10T11:52:50+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-04-13T12:25:56+00:00Z — chore: pin torch/torchvision and add requirements lock
+- 2020-04-13T13:09:44+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
