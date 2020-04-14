@@ -36,3 +36,4 @@
 - 2020-04-13T20:49:56+00:00Z — fix: normalize inputs consistently between train and explain paths
 - 2020-04-13T12:22:13+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-04-14T20:29:19+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
+- 2020-04-14T11:12:35+00:00Z — feat: overlay CAM on input images and save explanation figures
