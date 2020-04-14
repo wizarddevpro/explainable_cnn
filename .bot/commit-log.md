@@ -38,3 +38,4 @@
 - 2020-04-14T20:29:19+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-04-14T11:12:35+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-04-14T13:39:21+00:00Z — feat: optional attention maps for interpretable pooling
+- 2020-04-14T14:18:35+00:00Z — fix: clamp attribution maps before colormap for stable plots
