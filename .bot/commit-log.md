@@ -40,3 +40,4 @@
 - 2020-04-14T13:39:21+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-04-14T14:18:35+00:00Z — fix: clamp attribution maps before colormap for stable plots
 - 2020-04-15T12:24:46+00:00Z — refactor: extract training loop into trainer module with metrics logging
+- 2020-04-15T15:12:07+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
