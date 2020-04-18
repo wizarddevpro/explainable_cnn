@@ -32,3 +32,4 @@
 - 2020-04-10T11:52:50+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-04-13T12:25:56+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-04-13T13:09:44+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
+- 2020-04-18T20:05:55+00:00Z — feat: export ONNX with dynamic batch for deployment checks
