@@ -36,3 +36,4 @@
 - 2020-04-18T11:28:00+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-04-18T11:44:09+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-04-18T16:35:21+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
+- 2020-04-18T14:48:57+00:00Z — feat: overlay CAM on input images and save explanation figures
