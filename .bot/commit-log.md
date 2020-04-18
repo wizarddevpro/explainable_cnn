@@ -34,3 +34,4 @@
 - 2020-04-13T13:09:44+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-04-18T20:05:55+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-04-18T11:28:00+00:00Z — feat: dataset loader with train/val split and augmentations
+- 2020-04-18T11:44:09+00:00Z — feat: add guided backprop visualization for comparison
