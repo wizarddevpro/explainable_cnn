@@ -35,3 +35,4 @@
 - 2020-04-18T20:05:55+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-04-18T11:28:00+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-04-18T11:44:09+00:00Z — feat: add guided backprop visualization for comparison
+- 2020-04-18T16:35:21+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
