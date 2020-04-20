@@ -44,3 +44,4 @@
 - 2020-04-20T19:05:04+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-04-20T15:50:28+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-04-20T12:23:54+00:00Z — refactor: extract training loop into trainer module with metrics logging
+- 2020-04-20T18:12:09+00:00Z — feat: optional attention maps for interpretable pooling
