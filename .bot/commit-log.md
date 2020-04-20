@@ -46,3 +46,4 @@
 - 2020-04-20T12:23:54+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-04-20T18:12:09+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-04-20T17:56:06+00:00Z — refactor: separate model, data, and explain modules
+- 2020-04-20T09:57:02+00:00Z — feat: dataset loader with train/val split and augmentations
