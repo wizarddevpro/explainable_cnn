@@ -38,3 +38,4 @@
 - 2020-04-18T16:35:21+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-04-18T14:48:57+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-04-18T19:20:12+00:00Z — test: add smoke tests for forward pass and attribution shapes
+- 2020-04-21T16:15:34+00:00Z — docs: add README section on reproducing paper-style figures
