@@ -48,3 +48,4 @@
 - 2020-04-20T17:56:06+00:00Z — refactor: separate model, data, and explain modules
 - 2020-04-20T09:57:02+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-04-24T10:38:21+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
+- 2020-04-24T20:01:44+00:00Z — feat: dataset loader with train/val split and augmentations
