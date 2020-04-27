@@ -51,3 +51,4 @@
 - 2020-04-24T20:01:44+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-04-27T18:52:02+00:00Z — fix: clamp attribution maps before colormap for stable plots
 - 2020-04-27T14:19:59+00:00Z — feat: overlay CAM on input images and save explanation figures
+- 2020-04-27T20:10:32+00:00Z — feat: add CNN backbone with configurable depth and channel widths
