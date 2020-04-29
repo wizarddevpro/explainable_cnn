@@ -58,3 +58,4 @@
 - 2020-04-29T16:39:41+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-04-29T19:26:40+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-04-29T11:20:10+00:00Z — refactor: extract training loop into trainer module with metrics logging
+- 2020-04-29T09:18:24+00:00Z — feat: add saliency and integrated gradients attribution hooks
