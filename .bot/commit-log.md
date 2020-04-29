@@ -55,3 +55,4 @@
 - 2020-04-27T12:19:32+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-04-27T20:12:06+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-04-29T12:57:03+00:00Z — fix: normalize inputs consistently between train and explain paths
+- 2020-04-29T16:39:41+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
