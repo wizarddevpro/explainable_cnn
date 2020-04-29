@@ -42,3 +42,4 @@
 - 2020-04-21T20:46:42+00:00Z — refactor: separate model, data, and explain modules
 - 2020-04-26T16:24:11+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-04-26T13:53:44+00:00Z — feat: dataset loader with train/val split and augmentations
+- 2020-04-29T16:33:27+00:00Z — docs: document explainability pipeline and CLI usage
