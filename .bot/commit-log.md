@@ -47,3 +47,4 @@
 - 2020-04-29T19:16:00+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-04-29T11:55:56+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-04-29T11:04:42+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
+- 2020-04-29T10:57:19+00:00Z — fix: clamp attribution maps before colormap for stable plots
