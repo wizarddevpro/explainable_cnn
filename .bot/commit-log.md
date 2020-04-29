@@ -43,3 +43,4 @@
 - 2020-04-26T16:24:11+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-04-26T13:53:44+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-04-29T16:33:27+00:00Z — docs: document explainability pipeline and CLI usage
+- 2020-04-29T18:07:53+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
