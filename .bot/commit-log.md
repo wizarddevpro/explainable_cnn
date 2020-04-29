@@ -45,3 +45,4 @@
 - 2020-04-29T16:33:27+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-04-29T18:07:53+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-04-29T19:16:00+00:00Z — feat: optional attention maps for interpretable pooling
+- 2020-04-29T11:55:56+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
