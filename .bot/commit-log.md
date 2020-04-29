@@ -57,3 +57,4 @@
 - 2020-04-29T12:57:03+00:00Z — fix: normalize inputs consistently between train and explain paths
 - 2020-04-29T16:39:41+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-04-29T19:26:40+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
+- 2020-04-29T11:20:10+00:00Z — refactor: extract training loop into trainer module with metrics logging
