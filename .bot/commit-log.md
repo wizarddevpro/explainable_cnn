@@ -62,3 +62,4 @@
 - 2020-05-02T16:34:56+00:00Z — fix: normalize inputs consistently between train and explain paths
 - 2020-05-02T16:19:50+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-05-02T18:11:57+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
+- 2020-05-02T14:43:13+00:00Z — chore: pin torch/torchvision and add requirements lock
