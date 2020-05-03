@@ -69,3 +69,4 @@
 - 2020-05-03T16:23:24+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-05-03T15:59:40+00:00Z — test: add smoke tests for forward pass and attribution shapes
 - 2020-05-03T13:34:50+00:00Z — chore(ci): lint and pytest in GitHub Actions
+- 2020-05-03T10:13:26+00:00Z — feat: add CNN backbone with configurable depth and channel widths
