@@ -64,3 +64,4 @@
 - 2020-05-02T18:11:57+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-05-02T14:43:13+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-05-02T13:44:52+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
+- 2020-05-03T18:31:14+00:00Z — refactor: extract training loop into trainer module with metrics logging
