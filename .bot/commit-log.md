@@ -67,3 +67,4 @@
 - 2020-05-03T18:31:14+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-05-03T15:37:36+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-05-03T16:23:24+00:00Z — feat: dataset loader with train/val split and augmentations
+- 2020-05-03T15:59:40+00:00Z — test: add smoke tests for forward pass and attribution shapes
