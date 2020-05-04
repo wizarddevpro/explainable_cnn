@@ -50,3 +50,4 @@
 - 2020-04-29T10:57:19+00:00Z — fix: clamp attribution maps before colormap for stable plots
 - 2020-05-04T16:43:03+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-05-04T10:17:32+00:00Z — feat: add CNN backbone with configurable depth and channel widths
+- 2020-05-04T17:40:59+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
