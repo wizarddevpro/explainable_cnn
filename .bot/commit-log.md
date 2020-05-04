@@ -48,3 +48,4 @@
 - 2020-04-29T11:55:56+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-04-29T11:04:42+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-04-29T10:57:19+00:00Z — fix: clamp attribution maps before colormap for stable plots
+- 2020-05-04T16:43:03+00:00Z — feat: add CNN backbone with configurable depth and channel widths
