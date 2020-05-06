@@ -71,3 +71,4 @@
 - 2020-05-03T13:34:50+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-05-03T10:13:26+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-05-06T10:49:16+00:00Z — feat: add guided backprop visualization for comparison
+- 2020-05-06T18:43:28+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
