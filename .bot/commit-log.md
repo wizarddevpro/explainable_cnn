@@ -53,3 +53,4 @@
 - 2020-05-04T17:40:59+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-05-04T12:37:14+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-05-07T19:56:52+00:00Z — refactor: extract training loop into trainer module with metrics logging
+- 2020-05-07T12:38:22+00:00Z — fix: clamp attribution maps before colormap for stable plots
