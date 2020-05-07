@@ -55,3 +55,4 @@
 - 2020-05-07T19:56:52+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-05-07T12:38:22+00:00Z — fix: clamp attribution maps before colormap for stable plots
 - 2020-05-07T16:24:12+00:00Z — feat: add saliency and integrated gradients attribution hooks
+- 2020-05-07T11:06:19+00:00Z — feat: add saliency and integrated gradients attribution hooks
