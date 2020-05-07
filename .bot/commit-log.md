@@ -56,3 +56,4 @@
 - 2020-05-07T12:38:22+00:00Z — fix: clamp attribution maps before colormap for stable plots
 - 2020-05-07T16:24:12+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-05-07T11:06:19+00:00Z — feat: add saliency and integrated gradients attribution hooks
+- 2020-05-07T20:05:50+00:00Z — feat: add CNN backbone with configurable depth and channel widths
