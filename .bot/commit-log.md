@@ -74,3 +74,4 @@
 - 2020-05-06T18:43:28+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-05-06T20:16:44+00:00Z — test: add smoke tests for forward pass and attribution shapes
 - 2020-05-08T11:49:43+00:00Z — feat: add guided backprop visualization for comparison
+- 2020-05-08T20:16:05+00:00Z — chore(ci): lint and pytest in GitHub Actions
