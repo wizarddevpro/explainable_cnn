@@ -59,3 +59,4 @@
 - 2020-05-07T20:05:50+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-05-09T09:16:40+00:00Z — refactor: separate model, data, and explain modules
 - 2020-05-09T19:29:59+00:00Z — feat: export ONNX with dynamic batch for deployment checks
+- 2020-05-09T09:38:27+00:00Z — feat: add saliency and integrated gradients attribution hooks
