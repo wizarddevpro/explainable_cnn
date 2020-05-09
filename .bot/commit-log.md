@@ -60,3 +60,4 @@
 - 2020-05-09T09:16:40+00:00Z — refactor: separate model, data, and explain modules
 - 2020-05-09T19:29:59+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-05-09T09:38:27+00:00Z — feat: add saliency and integrated gradients attribution hooks
+- 2020-05-09T15:21:16+00:00Z — fix: normalize inputs consistently between train and explain paths
