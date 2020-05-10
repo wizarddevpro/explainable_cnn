@@ -62,3 +62,4 @@
 - 2020-05-09T09:38:27+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-05-09T15:21:16+00:00Z — fix: normalize inputs consistently between train and explain paths
 - 2020-05-09T09:22:10+00:00Z — fix: clamp attribution maps before colormap for stable plots
+- 2020-05-10T11:57:13+00:00Z — feat: add CNN backbone with configurable depth and channel widths
