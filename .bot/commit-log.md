@@ -78,3 +78,4 @@
 - 2020-05-08T14:41:36+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-05-12T20:15:30+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-05-12T09:48:31+00:00Z — test: add smoke tests for forward pass and attribution shapes
+- 2020-05-12T13:24:47+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
