@@ -76,3 +76,4 @@
 - 2020-05-08T11:49:43+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-05-08T20:16:05+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-05-08T14:41:36+00:00Z — chore(ci): lint and pytest in GitHub Actions
+- 2020-05-12T20:15:30+00:00Z — docs: document explainability pipeline and CLI usage
