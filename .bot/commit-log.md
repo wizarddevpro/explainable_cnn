@@ -71,3 +71,4 @@
 - 2020-05-14T12:45:35+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-05-14T18:00:05+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-05-14T16:18:29+00:00Z — refactor: separate model, data, and explain modules
+- 2020-05-14T12:56:28+00:00Z — fix: clamp attribution maps before colormap for stable plots
