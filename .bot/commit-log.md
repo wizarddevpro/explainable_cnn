@@ -68,3 +68,4 @@
 - 2020-05-10T17:10:46+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-05-14T10:18:26+00:00Z — refactor: separate model, data, and explain modules
 - 2020-05-14T16:23:19+00:00Z — docs: add README section on reproducing paper-style figures
+- 2020-05-14T12:45:35+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
