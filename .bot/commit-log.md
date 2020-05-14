@@ -69,3 +69,4 @@
 - 2020-05-14T10:18:26+00:00Z — refactor: separate model, data, and explain modules
 - 2020-05-14T16:23:19+00:00Z — docs: add README section on reproducing paper-style figures
 - 2020-05-14T12:45:35+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
+- 2020-05-14T18:00:05+00:00Z — feat: add saliency and integrated gradients attribution hooks
