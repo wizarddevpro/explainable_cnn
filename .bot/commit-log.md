@@ -80,3 +80,4 @@
 - 2020-05-12T09:48:31+00:00Z — test: add smoke tests for forward pass and attribution shapes
 - 2020-05-12T13:24:47+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-05-12T17:41:07+00:00Z — docs: add README section on reproducing paper-style figures
+- 2020-05-16T14:45:42+00:00Z — feat: add CNN backbone with configurable depth and channel widths
