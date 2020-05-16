@@ -84,3 +84,4 @@
 - 2020-05-16T13:46:44+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-05-16T20:40:26+00:00Z — fix: clamp attribution maps before colormap for stable plots
 - 2020-05-16T17:40:00+00:00Z — docs: add README section on reproducing paper-style figures
+- 2020-05-16T12:52:58+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
