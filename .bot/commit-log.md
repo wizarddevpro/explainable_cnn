@@ -81,3 +81,4 @@
 - 2020-05-12T13:24:47+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-05-12T17:41:07+00:00Z — docs: add README section on reproducing paper-style figures
 - 2020-05-16T14:45:42+00:00Z — feat: add CNN backbone with configurable depth and channel widths
+- 2020-05-16T13:46:44+00:00Z — docs: document explainability pipeline and CLI usage
