@@ -83,3 +83,4 @@
 - 2020-05-16T14:45:42+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-05-16T13:46:44+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-05-16T20:40:26+00:00Z — fix: clamp attribution maps before colormap for stable plots
+- 2020-05-16T17:40:00+00:00Z — docs: add README section on reproducing paper-style figures
