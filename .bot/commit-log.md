@@ -75,3 +75,4 @@
 - 2020-05-18T09:51:03+00:00Z — refactor: separate model, data, and explain modules
 - 2020-05-18T09:35:26+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-05-18T13:30:49+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
+- 2020-05-18T19:43:23+00:00Z — feat: dataset loader with train/val split and augmentations
