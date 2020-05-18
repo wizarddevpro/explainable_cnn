@@ -74,3 +74,4 @@
 - 2020-05-14T12:56:28+00:00Z — fix: clamp attribution maps before colormap for stable plots
 - 2020-05-18T09:51:03+00:00Z — refactor: separate model, data, and explain modules
 - 2020-05-18T09:35:26+00:00Z — feat: overlay CAM on input images and save explanation figures
+- 2020-05-18T13:30:49+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
