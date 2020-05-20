@@ -77,3 +77,4 @@
 - 2020-05-18T13:30:49+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-05-18T19:43:23+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-05-20T17:10:09+00:00Z — chore: pin torch/torchvision and add requirements lock
+- 2020-05-20T15:02:46+00:00Z — refactor: extract training loop into trainer module with metrics logging
