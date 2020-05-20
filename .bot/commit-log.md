@@ -78,3 +78,4 @@
 - 2020-05-18T19:43:23+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-05-20T17:10:09+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-05-20T15:02:46+00:00Z — refactor: extract training loop into trainer module with metrics logging
+- 2020-05-20T11:02:00+00:00Z — feat: add saliency and integrated gradients attribution hooks
