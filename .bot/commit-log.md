@@ -87,3 +87,4 @@
 - 2020-05-16T12:52:58+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-05-16T14:55:45+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-05-20T15:56:39+00:00Z — feat: add saliency and integrated gradients attribution hooks
+- 2020-05-20T12:09:39+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
