@@ -90,3 +90,4 @@
 - 2020-05-20T12:09:39+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-05-20T19:54:28+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-05-20T16:20:53+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
+- 2020-05-20T17:35:13+00:00Z — feat: add guided backprop visualization for comparison
