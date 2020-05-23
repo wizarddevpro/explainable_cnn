@@ -92,3 +92,4 @@
 - 2020-05-20T16:20:53+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-05-20T17:35:13+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-05-20T09:34:03+00:00Z — feat: export ONNX with dynamic batch for deployment checks
+- 2020-05-23T20:04:29+00:00Z — chore: pin torch/torchvision and add requirements lock
