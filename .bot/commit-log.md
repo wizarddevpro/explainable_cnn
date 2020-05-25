@@ -83,3 +83,4 @@
 - 2020-05-25T09:11:43+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-05-25T15:38:35+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-05-25T14:00:20+00:00Z — feat: add guided backprop visualization for comparison
+- 2020-05-25T18:52:35+00:00Z — feat: add saliency and integrated gradients attribution hooks
