@@ -80,3 +80,4 @@
 - 2020-05-20T15:02:46+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-05-20T11:02:00+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-05-20T19:05:48+00:00Z — chore(ci): lint and pytest in GitHub Actions
+- 2020-05-25T09:11:43+00:00Z — docs: document explainability pipeline and CLI usage
