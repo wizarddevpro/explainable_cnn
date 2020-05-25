@@ -81,3 +81,4 @@
 - 2020-05-20T11:02:00+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-05-20T19:05:48+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-05-25T09:11:43+00:00Z — docs: document explainability pipeline and CLI usage
+- 2020-05-25T15:38:35+00:00Z — feat: optional attention maps for interpretable pooling
