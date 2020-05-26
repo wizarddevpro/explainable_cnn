@@ -94,3 +94,4 @@
 - 2020-05-20T09:34:03+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-05-23T20:04:29+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-05-23T11:26:39+00:00Z — feat: optional attention maps for interpretable pooling
+- 2020-05-26T13:33:29+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
