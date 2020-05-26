@@ -95,3 +95,4 @@
 - 2020-05-23T20:04:29+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-05-23T11:26:39+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-05-26T13:33:29+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
+- 2020-05-26T11:08:41+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
