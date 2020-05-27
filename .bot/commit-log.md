@@ -98,3 +98,4 @@
 - 2020-05-26T11:08:41+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-05-26T09:51:27+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-05-26T10:06:08+00:00Z — docs: document explainability pipeline and CLI usage
+- 2020-05-27T13:27:36+00:00Z — fix: normalize inputs consistently between train and explain paths
