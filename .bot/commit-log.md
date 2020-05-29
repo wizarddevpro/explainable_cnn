@@ -86,3 +86,4 @@
 - 2020-05-25T18:52:35+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-05-25T16:14:47+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-05-29T11:27:31+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
+- 2020-05-29T10:31:45+00:00Z — docs: document explainability pipeline and CLI usage
