@@ -100,3 +100,4 @@
 - 2020-05-26T10:06:08+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-05-27T13:27:36+00:00Z — fix: normalize inputs consistently between train and explain paths
 - 2020-05-27T17:39:51+00:00Z — feat: add saliency and integrated gradients attribution hooks
+- 2020-05-30T16:33:14+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
