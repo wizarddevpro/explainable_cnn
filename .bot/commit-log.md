@@ -89,3 +89,4 @@
 - 2020-05-29T10:31:45+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-05-29T15:12:57+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-05-29T14:42:14+00:00Z — feat: add CNN backbone with configurable depth and channel widths
+- 2020-05-30T15:47:03+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
