@@ -102,3 +102,4 @@
 - 2020-05-27T17:39:51+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-05-30T16:33:14+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-05-30T11:04:59+00:00Z — test: add smoke tests for forward pass and attribution shapes
+- 2020-05-30T14:02:10+00:00Z — feat: dataset loader with train/val split and augmentations
