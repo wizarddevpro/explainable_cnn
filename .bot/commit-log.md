@@ -92,3 +92,4 @@
 - 2020-05-30T15:47:03+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-05-30T12:11:07+00:00Z — refactor: separate model, data, and explain modules
 - 2020-05-30T09:08:21+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
+- 2020-05-31T15:36:45+00:00Z — feat: dataset loader with train/val split and augmentations
