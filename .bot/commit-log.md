@@ -94,3 +94,4 @@
 - 2020-05-30T09:08:21+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-05-31T15:36:45+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-05-31T15:00:01+00:00Z — refactor: extract training loop into trainer module with metrics logging
+- 2020-05-31T15:09:52+00:00Z — chore(ci): lint and pytest in GitHub Actions
