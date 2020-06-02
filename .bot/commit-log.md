@@ -108,3 +108,4 @@
 - 2020-06-02T11:55:32+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-06-02T19:30:41+00:00Z — docs: add README section on reproducing paper-style figures
 - 2020-06-02T15:35:00+00:00Z — feat: export ONNX with dynamic batch for deployment checks
+- 2020-06-02T16:49:13+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
