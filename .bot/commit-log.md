@@ -106,3 +106,4 @@
 - 2020-05-30T09:50:46+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-05-30T09:46:23+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-06-02T11:55:32+00:00Z — feat: add guided backprop visualization for comparison
+- 2020-06-02T19:30:41+00:00Z — docs: add README section on reproducing paper-style figures
