@@ -105,3 +105,4 @@
 - 2020-05-30T14:02:10+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-05-30T09:50:46+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-05-30T09:46:23+00:00Z — refactor: extract training loop into trainer module with metrics logging
+- 2020-06-02T11:55:32+00:00Z — feat: add guided backprop visualization for comparison
