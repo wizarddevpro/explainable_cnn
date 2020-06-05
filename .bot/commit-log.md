@@ -98,3 +98,4 @@
 - 2020-06-05T20:55:15+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-06-05T19:27:16+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-06-05T09:39:31+00:00Z — feat: add CNN backbone with configurable depth and channel widths
+- 2020-06-05T20:46:37+00:00Z — feat: export ONNX with dynamic batch for deployment checks
