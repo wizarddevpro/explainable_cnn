@@ -95,3 +95,4 @@
 - 2020-05-31T15:36:45+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-05-31T15:00:01+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-05-31T15:09:52+00:00Z — chore(ci): lint and pytest in GitHub Actions
+- 2020-06-05T20:55:15+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
