@@ -111,3 +111,4 @@
 - 2020-06-02T16:49:13+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-06-07T10:42:44+00:00Z — fix: normalize inputs consistently between train and explain paths
 - 2020-06-07T18:26:36+00:00Z — feat: overlay CAM on input images and save explanation figures
+- 2020-06-07T19:10:36+00:00Z — fix: clamp attribution maps before colormap for stable plots
