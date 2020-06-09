@@ -101,3 +101,4 @@
 - 2020-06-05T20:46:37+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-06-05T19:20:11+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-06-05T11:06:08+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
+- 2020-06-09T10:41:55+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
