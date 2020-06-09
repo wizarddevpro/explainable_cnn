@@ -114,3 +114,4 @@
 - 2020-06-07T19:10:36+00:00Z — fix: clamp attribution maps before colormap for stable plots
 - 2020-06-07T13:18:28+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-06-09T12:13:55+00:00Z — refactor: separate model, data, and explain modules
+- 2020-06-09T17:41:53+00:00Z — fix: normalize inputs consistently between train and explain paths
