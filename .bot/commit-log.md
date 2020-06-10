@@ -115,3 +115,4 @@
 - 2020-06-07T13:18:28+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-06-09T12:13:55+00:00Z — refactor: separate model, data, and explain modules
 - 2020-06-09T17:41:53+00:00Z — fix: normalize inputs consistently between train and explain paths
+- 2020-06-10T17:47:05+00:00Z — feat: add saliency and integrated gradients attribution hooks
