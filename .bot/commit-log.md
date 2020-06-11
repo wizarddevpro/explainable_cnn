@@ -118,3 +118,4 @@
 - 2020-06-10T17:47:05+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-06-10T17:05:29+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-06-10T11:15:51+00:00Z — fix: clamp attribution maps before colormap for stable plots
+- 2020-06-11T12:54:40+00:00Z — feat: overlay CAM on input images and save explanation figures
