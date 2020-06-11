@@ -104,3 +104,4 @@
 - 2020-06-09T10:41:55+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-06-09T18:19:30+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-06-09T11:43:23+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
+- 2020-06-11T10:29:59+00:00Z — test: add smoke tests for forward pass and attribution shapes
