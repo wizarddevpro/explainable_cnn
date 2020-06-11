@@ -106,3 +106,4 @@
 - 2020-06-09T11:43:23+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-06-11T10:29:59+00:00Z — test: add smoke tests for forward pass and attribution shapes
 - 2020-06-11T09:38:26+00:00Z — docs: document explainability pipeline and CLI usage
+- 2020-06-11T16:51:03+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
