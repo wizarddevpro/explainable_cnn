@@ -121,3 +121,4 @@
 - 2020-06-11T12:54:40+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-06-11T20:05:35+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-06-11T19:27:43+00:00Z — feat: add CNN backbone with configurable depth and channel widths
+- 2020-06-12T09:06:10+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
