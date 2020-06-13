@@ -110,3 +110,4 @@
 - 2020-06-11T13:36:33+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-06-11T18:04:48+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-06-13T13:51:27+00:00Z — chore: pin torch/torchvision and add requirements lock
+- 2020-06-13T14:10:04+00:00Z — feat: overlay CAM on input images and save explanation figures
