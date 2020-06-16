@@ -115,3 +115,4 @@
 - 2020-06-16T19:07:58+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-06-16T18:14:34+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-06-16T09:42:15+00:00Z — refactor: separate model, data, and explain modules
+- 2020-06-16T10:10:12+00:00Z — docs: document explainability pipeline and CLI usage
