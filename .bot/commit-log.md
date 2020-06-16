@@ -113,3 +113,4 @@
 - 2020-06-13T14:10:04+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-06-13T17:56:02+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-06-16T19:07:58+00:00Z — feat: optional attention maps for interpretable pooling
+- 2020-06-16T18:14:34+00:00Z — feat: dataset loader with train/val split and augmentations
