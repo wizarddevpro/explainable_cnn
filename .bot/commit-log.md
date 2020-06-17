@@ -126,3 +126,4 @@
 - 2020-06-17T15:54:32+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-06-17T09:41:13+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-06-17T10:34:13+00:00Z — test: add smoke tests for forward pass and attribution shapes
+- 2020-06-17T15:09:08+00:00Z — docs: add README section on reproducing paper-style figures
