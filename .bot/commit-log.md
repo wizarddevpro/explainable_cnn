@@ -123,3 +123,4 @@
 - 2020-06-11T19:27:43+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-06-12T09:06:10+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-06-12T16:14:59+00:00Z — refactor: extract training loop into trainer module with metrics logging
+- 2020-06-17T15:54:32+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
