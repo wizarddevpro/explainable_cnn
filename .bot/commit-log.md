@@ -124,3 +124,4 @@
 - 2020-06-12T09:06:10+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-06-12T16:14:59+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-06-17T15:54:32+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
+- 2020-06-17T09:41:13+00:00Z — docs: document explainability pipeline and CLI usage
