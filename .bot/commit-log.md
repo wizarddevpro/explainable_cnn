@@ -129,3 +129,4 @@
 - 2020-06-17T15:09:08+00:00Z — docs: add README section on reproducing paper-style figures
 - 2020-06-17T13:48:13+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-06-17T11:52:50+00:00Z — docs: document explainability pipeline and CLI usage
+- 2020-06-21T18:14:06+00:00Z — feat: add saliency and integrated gradients attribution hooks
