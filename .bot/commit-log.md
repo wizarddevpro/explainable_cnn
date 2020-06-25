@@ -118,3 +118,4 @@
 - 2020-06-16T10:10:12+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-06-21T14:57:56+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-06-21T10:31:19+00:00Z — test: add smoke tests for forward pass and attribution shapes
+- 2020-06-25T13:42:08+00:00Z — feat: optional attention maps for interpretable pooling
