@@ -120,3 +120,4 @@
 - 2020-06-21T10:31:19+00:00Z — test: add smoke tests for forward pass and attribution shapes
 - 2020-06-25T13:42:08+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-06-25T20:58:30+00:00Z — docs: document explainability pipeline and CLI usage
+- 2020-06-25T16:32:02+00:00Z — feat: optional attention maps for interpretable pooling
