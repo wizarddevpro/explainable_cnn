@@ -133,3 +133,4 @@
 - 2020-06-21T11:35:25+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-06-21T11:16:31+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-06-26T19:12:59+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
+- 2020-06-26T12:50:27+00:00Z — feat: add guided backprop visualization for comparison
