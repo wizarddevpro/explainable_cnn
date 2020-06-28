@@ -122,3 +122,4 @@
 - 2020-06-25T20:58:30+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-06-25T16:32:02+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-06-28T17:13:40+00:00Z — feat: dataset loader with train/val split and augmentations
+- 2020-06-28T15:34:17+00:00Z — chore: pin torch/torchvision and add requirements lock
