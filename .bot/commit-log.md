@@ -139,3 +139,4 @@
 - 2020-06-26T09:11:56+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-07-01T10:51:27+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-07-01T16:01:32+00:00Z — chore: pin torch/torchvision and add requirements lock
+- 2020-07-01T13:02:58+00:00Z — feat: export ONNX with dynamic batch for deployment checks
