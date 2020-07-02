@@ -142,3 +142,4 @@
 - 2020-07-01T13:02:58+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-07-01T12:11:33+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-07-01T16:57:02+00:00Z — chore: pin torch/torchvision and add requirements lock
+- 2020-07-02T19:18:22+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
