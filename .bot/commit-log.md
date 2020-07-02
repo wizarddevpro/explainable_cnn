@@ -146,3 +146,4 @@
 - 2020-07-02T20:36:51+00:00Z — refactor: separate model, data, and explain modules
 - 2020-07-02T09:51:28+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-07-02T09:09:27+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
+- 2020-07-02T19:11:22+00:00Z — feat: add CNN backbone with configurable depth and channel widths
