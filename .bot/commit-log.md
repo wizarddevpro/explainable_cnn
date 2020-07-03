@@ -124,3 +124,4 @@
 - 2020-06-28T17:13:40+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-06-28T15:34:17+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-06-28T18:01:27+00:00Z — feat: export ONNX with dynamic batch for deployment checks
+- 2020-07-03T20:45:09+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
