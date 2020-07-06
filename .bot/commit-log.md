@@ -149,3 +149,4 @@
 - 2020-07-02T19:11:22+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-07-02T12:56:28+00:00Z — fix: normalize inputs consistently between train and explain paths
 - 2020-07-06T10:47:31+00:00Z — feat: export ONNX with dynamic batch for deployment checks
+- 2020-07-06T11:23:07+00:00Z — feat: dataset loader with train/val split and augmentations
