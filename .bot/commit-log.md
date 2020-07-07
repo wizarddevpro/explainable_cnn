@@ -128,3 +128,4 @@
 - 2020-07-03T17:58:49+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-07-07T17:35:21+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-07-07T20:09:02+00:00Z — feat: dataset loader with train/val split and augmentations
+- 2020-07-07T13:41:52+00:00Z — chore(ci): lint and pytest in GitHub Actions
