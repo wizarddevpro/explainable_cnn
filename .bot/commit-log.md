@@ -129,3 +129,4 @@
 - 2020-07-07T17:35:21+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-07-07T20:09:02+00:00Z — feat: dataset loader with train/val split and augmentations
 - 2020-07-07T13:41:52+00:00Z — chore(ci): lint and pytest in GitHub Actions
+- 2020-07-07T10:30:37+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
