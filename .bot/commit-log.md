@@ -126,3 +126,4 @@
 - 2020-06-28T18:01:27+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-07-03T20:45:09+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-07-03T17:58:49+00:00Z — feat: add saliency and integrated gradients attribution hooks
+- 2020-07-07T17:35:21+00:00Z — feat: add guided backprop visualization for comparison
