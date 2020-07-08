@@ -154,3 +154,4 @@
 - 2020-07-06T09:05:02+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-07-08T12:25:29+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-07-08T11:42:35+00:00Z — feat: add CNN backbone with configurable depth and channel widths
+- 2020-07-08T18:53:29+00:00Z — refactor: separate model, data, and explain modules
