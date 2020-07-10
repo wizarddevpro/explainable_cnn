@@ -132,3 +132,4 @@
 - 2020-07-07T10:30:37+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-07-10T10:58:32+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-07-10T17:08:48+00:00Z — chore(ci): lint and pytest in GitHub Actions
+- 2020-07-10T20:26:37+00:00Z — docs: add README section on reproducing paper-style figures
