@@ -137,3 +137,4 @@
 - 2020-07-10T10:54:21+00:00Z — test: add smoke tests for forward pass and attribution shapes
 - 2020-07-11T16:55:45+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-07-11T11:41:49+00:00Z — docs: document explainability pipeline and CLI usage
+- 2020-07-11T12:12:20+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
