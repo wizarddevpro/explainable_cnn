@@ -135,3 +135,4 @@
 - 2020-07-10T20:26:37+00:00Z — docs: add README section on reproducing paper-style figures
 - 2020-07-10T16:19:11+00:00Z — chore: pin torch/torchvision and add requirements lock
 - 2020-07-10T10:54:21+00:00Z — test: add smoke tests for forward pass and attribution shapes
+- 2020-07-11T16:55:45+00:00Z — feat: optional attention maps for interpretable pooling
