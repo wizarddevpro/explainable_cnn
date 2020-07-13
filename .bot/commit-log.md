@@ -142,3 +142,4 @@
 - 2020-07-11T16:15:51+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-07-11T11:35:01+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-07-13T16:00:31+00:00Z — fix: clamp attribution maps before colormap for stable plots
+- 2020-07-13T12:58:03+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
