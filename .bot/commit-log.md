@@ -158,3 +158,4 @@
 - 2020-07-13T19:06:15+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-07-13T09:34:44+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-07-13T11:07:42+00:00Z — feat: add saliency and integrated gradients attribution hooks
+- 2020-07-13T15:37:18+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
