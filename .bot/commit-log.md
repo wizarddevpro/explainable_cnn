@@ -143,3 +143,4 @@
 - 2020-07-11T11:35:01+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-07-13T16:00:31+00:00Z — fix: clamp attribution maps before colormap for stable plots
 - 2020-07-13T12:58:03+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
+- 2020-07-13T11:59:03+00:00Z — refactor: extract training loop into trainer module with metrics logging
