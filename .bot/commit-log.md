@@ -161,3 +161,4 @@
 - 2020-07-13T15:37:18+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-07-13T19:39:28+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-07-16T14:15:20+00:00Z — refactor: extract training loop into trainer module with metrics logging
+- 2020-07-16T18:05:54+00:00Z — docs: add README section on reproducing paper-style figures
