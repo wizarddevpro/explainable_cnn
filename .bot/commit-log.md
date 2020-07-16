@@ -160,3 +160,4 @@
 - 2020-07-13T11:07:42+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-07-13T15:37:18+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-07-13T19:39:28+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
+- 2020-07-16T14:15:20+00:00Z — refactor: extract training loop into trainer module with metrics logging
