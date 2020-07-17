@@ -145,3 +145,4 @@
 - 2020-07-13T12:58:03+00:00Z — perf: enable mixed precision and cudnn benchmark where safe
 - 2020-07-13T11:59:03+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-07-17T15:41:52+00:00Z — docs: document explainability pipeline and CLI usage
+- 2020-07-17T16:11:04+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
