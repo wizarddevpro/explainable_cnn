@@ -147,3 +147,4 @@
 - 2020-07-17T15:41:52+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-07-17T16:11:04+00:00Z — feat: implement Grad-CAM heatmaps for conv layer explanations
 - 2020-07-17T20:22:39+00:00Z — feat: add CNN backbone with configurable depth and channel widths
+- 2020-07-17T11:49:08+00:00Z — feat: optional attention maps for interpretable pooling
