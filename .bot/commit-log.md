@@ -149,3 +149,4 @@
 - 2020-07-17T20:22:39+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-07-17T11:49:08+00:00Z — feat: optional attention maps for interpretable pooling
 - 2020-07-17T12:48:28+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
+- 2020-07-18T16:05:14+00:00Z — docs: add README section on reproducing paper-style figures
