@@ -163,3 +163,4 @@
 - 2020-07-16T14:15:20+00:00Z — refactor: extract training loop into trainer module with metrics logging
 - 2020-07-16T18:05:54+00:00Z — docs: add README section on reproducing paper-style figures
 - 2020-07-16T19:39:33+00:00Z — chore: pin torch/torchvision and add requirements lock
+- 2020-07-18T10:05:02+00:00Z — docs: document explainability pipeline and CLI usage
