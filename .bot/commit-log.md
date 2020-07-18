@@ -151,3 +151,4 @@
 - 2020-07-17T12:48:28+00:00Z — feat: scorecard metrics (top-k, IoU) for explanation quality
 - 2020-07-18T16:05:14+00:00Z — docs: add README section on reproducing paper-style figures
 - 2020-07-18T10:31:47+00:00Z — refactor: extract training loop into trainer module with metrics logging
+- 2020-07-18T11:22:55+00:00Z — feat: dataset loader with train/val split and augmentations
