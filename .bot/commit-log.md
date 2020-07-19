@@ -156,3 +156,4 @@
 - 2020-07-18T09:52:16+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-07-19T09:22:04+00:00Z — test: add smoke tests for forward pass and attribution shapes
 - 2020-07-19T11:30:05+00:00Z — test: add smoke tests for forward pass and attribution shapes
+- 2020-07-19T14:39:20+00:00Z — feat: overlay CAM on input images and save explanation figures
