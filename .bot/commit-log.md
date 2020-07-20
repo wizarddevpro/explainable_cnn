@@ -159,3 +159,4 @@
 - 2020-07-19T14:39:20+00:00Z — feat: overlay CAM on input images and save explanation figures
 - 2020-07-19T14:53:38+00:00Z — fix: normalize inputs consistently between train and explain paths
 - 2020-07-20T15:15:46+00:00Z — feat: optional attention maps for interpretable pooling
+- 2020-07-20T15:03:03+00:00Z — feat: add guided backprop visualization for comparison
