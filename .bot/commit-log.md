@@ -166,3 +166,4 @@
 - 2020-07-18T10:05:02+00:00Z — docs: document explainability pipeline and CLI usage
 - 2020-07-18T19:01:14+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-07-21T16:49:07+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
+- 2020-07-21T19:34:13+00:00Z — feat: add saliency and integrated gradients attribution hooks
