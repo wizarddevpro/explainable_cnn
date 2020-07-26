@@ -171,3 +171,4 @@
 - 2020-07-26T16:29:24+00:00Z — chore(ci): lint and pytest in GitHub Actions
 - 2020-07-26T11:56:24+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-07-26T11:25:18+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
+- 2020-07-26T15:23:12+00:00Z — feat: export ONNX with dynamic batch for deployment checks
