@@ -168,3 +168,4 @@
 - 2020-07-21T16:49:07+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-07-21T19:34:13+00:00Z — feat: add saliency and integrated gradients attribution hooks
 - 2020-07-21T15:53:22+00:00Z — docs: add README section on reproducing paper-style figures
+- 2020-07-26T16:29:24+00:00Z — chore(ci): lint and pytest in GitHub Actions
