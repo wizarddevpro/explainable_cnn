@@ -165,3 +165,4 @@
 - 2020-07-22T09:27:31+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-07-22T20:16:54+00:00Z — feat: add guided backprop visualization for comparison
 - 2020-07-27T09:26:29+00:00Z — feat: add guided backprop visualization for comparison
+- 2020-07-27T11:27:53+00:00Z — chore: pin torch/torchvision and add requirements lock
