@@ -175,3 +175,4 @@
 - 2020-07-26T17:40:37+00:00Z — feat: add CNN backbone with configurable depth and channel widths
 - 2020-07-31T11:28:05+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-07-31T13:26:56+00:00Z — feat: add saliency and integrated gradients attribution hooks
+- 2020-07-31T12:25:39+00:00Z — fix: clamp attribution maps before colormap for stable plots
