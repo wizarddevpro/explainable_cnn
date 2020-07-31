@@ -173,3 +173,4 @@
 - 2020-07-26T11:25:18+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
 - 2020-07-26T15:23:12+00:00Z — feat: export ONNX with dynamic batch for deployment checks
 - 2020-07-26T17:40:37+00:00Z — feat: add CNN backbone with configurable depth and channel widths
+- 2020-07-31T11:28:05+00:00Z — fix: handle grayscale vs RGB in preprocessing and visualization
