@@ -3,7 +3,7 @@
 
 **📦 Flexible visualization package for generating layer-wise explanations for CNNs.**
 
-It is a common notion that a Deep Learning model is considered as a black box. Working towards this problem, this project provides flexible and easy to use `pip` package `explainable-cnn` that will help you to create visualization for any `torch` based CNN model. Note that it uses one of the data centric approach. This project focusses on making the internal working of the Neural layers more transparent. In order to do so, `explainable-cnn` is a plug & play component that visualizes the layers based on on their gradients and builds different representations including Saliency Map, Guided BackPropagation, Grad CAM and Guided Grad CAM. 
+It is a common notion that a Deep Learning model is considered as a black box. Working towards this problem, this project provides flexible and easy to use `pip` package `explainable-cnn` that will help you to create visualization for any `torch` based CNN model. This project focusses on making the internal working of the Neural layers more transparent. In order to do so, `explainable-cnn` is a plug & play component that visualizes the layers based on on their gradients and builds different representations including Saliency Map, Guided BackPropagation, Grad CAM and Guided Grad CAM. 
 
 ## Architechture
 
